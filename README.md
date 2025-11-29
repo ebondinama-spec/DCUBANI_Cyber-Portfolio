@@ -40,4 +40,4 @@ Each folder in this repository represents a complete case study detailing the **
 ### **Contact & Credentials**
 **Email:** [ebondinama@gmail.com]
 **LinkedIn:** [www.linkedin.com/in/david-c-ubani-73a5b51ba]
-**Credential:** Google Cybersecurity Certificate Holder (https://coursera.org/share/6fcd1ed5ea27b1d73435644bd93109e7))
+**Credential:** Google Cybersecurity Certificate Holder (https://coursera.org/share/6fcd1ed5ea27b1d73435644bd93109e7)
