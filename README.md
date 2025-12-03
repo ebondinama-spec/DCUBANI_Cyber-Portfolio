@@ -12,7 +12,7 @@ My work focuses on translating theoretical security concepts into tangible solut
 
 This portfolio demonstrates practical application across the following essential cybersecurity domains:
 
-* **SIEM Analysis:** Developing complex queries, building correlation rules, and triaging high-priority alerts within SIEM solutions (e.g., Splunk/Chronicle).
+* **SIEM Analysis:** Developing complex queries, building correlation rules, and triaging high-priority alerts within SIEM solutions (e.g., Splunk/tcpdump).
 * **Incident Response (IR):** Drafting comprehensive IR playbooks (NIST aligned) for ransomware and phishing incidents, reducing estimated Mean Time to Recovery (MTTR).
 * **Network Defense:** Analyzing network traffic (Wireshark) to detect unauthorized lateral movement, identify anomalies, and enforce robust segmentation policies.
 * **System Hardening:** Implementing access controls (Least Privilege), configuring firewalls, and hardening Linux environments to meet CIS Benchmarks.
@@ -24,7 +24,7 @@ All projects utilize tools and frameworks relevant to a modern SOC/Security Anal
 
 | Category | Tools/Languages | Frameworks/Standards |
 | :--- | :--- | :--- |
-| **Analysis** | Wireshark, SIEM (Splunk/Chronicle), Nmap | NIST Cybersecurity Framework |
+| **Analysis** | Wireshark, SIEM (Splunk/ tcpdump), Nmap | NIST Cybersecurity Framework |
 | **Scripting** | **Python**, Bash/Shell Scripting | MITRE ATT&CK |
 | **OS/Platforms** | Linux (Ubuntu/Kali), Cloud (AWS/GCP Concepts) | ISO 27001 (Conceptual) |
 
